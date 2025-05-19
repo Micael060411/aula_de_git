@@ -1,2 +1,2 @@
 # aula_de_git
-pode apagar este projeto apenas para aula
+este é meu projeto exemplo!
